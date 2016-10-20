@@ -1,7 +1,7 @@
 
 import javax.swing.JOptionPane;
 
-public class Sizexz {
+public class Size {
 
 	public static void main(String[] args) {
 		String size = JOptionPane.showInputDialog("Enter number of people");
