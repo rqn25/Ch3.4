@@ -5,7 +5,7 @@ import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
 import javafx.stage.Stage;
 
-public class Size extends Application {
+public class SizeTwo extends Application {
 	
 	@Override
 	public void start(Stage primaryStage) {
